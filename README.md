@@ -1,21 +1,22 @@
 ## Hi 👋 I'm Adrian Dominguez
 
 ### About Me:
-  - Currently study Computer Science at UNCC
-  - Currently learning Android Studio
-  - In my spare time I like to read and work on small coding projects
+  - Recent Computer Science Grad from UNCC
 
 #### Goals and objectives:
-  - To graduate with my bachelors in Computer science
-  - Work on the back end of large scale software
+  - Work on the back end of large-scale software
    
 
 ##### Projects 
-View my projects here:
+View my portfolio here:
 
-https://github.com/aDominga?tab=repositories
+### https://adominga.github.io/Portfolio/
 
-  
+
+
+
+### PLEASE IGNORE OLD LINKED PORTFOLIO PAGE
+The portfolio has been updated. Previous URLs are now inactive; this README points to the current version
 <!--
 **aDominga/aDominga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
