@@ -7,9 +7,8 @@
   - Work on the back end of large-scale software
    
 
-##### Projects 
-View my portfolio here:
 
+###Portfolio
 ### https://adominga.github.io/Portfolio/
 
 
