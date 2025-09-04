@@ -1,4 +1,5 @@
-# Hi 👋 I'm Adrian 
+# Hi 👋 
+# I'm Adrian 
 
 ### About Me:
   - Recent Computer Science Grad from UNCC
