@@ -11,11 +11,6 @@
 ### Portfolio
 ### https://adominga.github.io/Portfolio/
 
-
-
-
-#### Please ignore old link to portfolio page
-The portfolio has been updated. Previous URLs are now inactive; this README points to the current version
 <!--
 **aDominga/aDominga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
