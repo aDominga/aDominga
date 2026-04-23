@@ -10,8 +10,8 @@
 
 
 
-### About Me:
-  - Recent Computer Science Grad from UNCC
+## Tools I Use:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #### Goals and objectives:
   - Work on the back end of large-scale software
