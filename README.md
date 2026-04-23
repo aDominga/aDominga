@@ -1,12 +1,15 @@
 <picture>
   <source 
     media="(prefers-color-scheme: light)" 
-    srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=ff3d00&text=Hello&animation=blink&fontAlignY=56&fontColor=000" 
+    srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=ff3d00&text=Welcome&animation=blink&fontAlignY=56&fontColor=000" 
   />
   <img 
-    src="https://capsule-render.vercel.app/api?type=venom&height=200&color=ff3d00&text=Welcome%20&animation=blink&fontAlignY=56&fontColor=fff" 
+    src="https://capsule-render.vercel.app/api?type=venom&height=300&color=ff3d00&text=Welcome%20&animation=blink&fontAlignY=56&fontColor=fff" 
   />
 </picture>
+
+
+
 ### About Me:
   - Recent Computer Science Grad from UNCC
 
