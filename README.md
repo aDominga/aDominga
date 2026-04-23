@@ -37,8 +37,6 @@
 <br>
 
 <h2 align="center">Want to get in touch💬</h2>
-<h3 align="center">You can find me here</h3>
-
 
 <div align="center">
 <a href="www.linkedin.com/in/adrian-dominguez-022186222">
