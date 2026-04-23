@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=10:EE7600,100:E24C00&text=Hello-nl-Eveybody&section=header&animation=fadeIn&fontColor=fff&textBg=false&fontAlignY=47&fontSize=45&fontAlign=50&descSize=20&desc=Welcome%20To%20My%20Github&descAlign=83&descAlignY=96)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=a700ff&text=Welcome%20&animation=blink&fontAlignY=56&fontColor=ffd600)
 
 ### About Me:
   - Recent Computer Science Grad from UNCC
