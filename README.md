@@ -1,4 +1,4 @@
-![header]([https://capsule-render.vercel.app/api?type=venom&height=200&color=a700ff&text=Welcome%20&animation=blink&fontAlignY=56&fontColor=ffd600](https://capsule-render.vercel.app/api?type=venom&height=200&color=ff3d00&text=Welcome%20&animation=blink&fontAlignY=56&fontColor=fff))
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=ff3d00&text=Welcome%20&animation=blink&fontAlignY=56&fontColor=fff)
 
 ### About Me:
   - Recent Computer Science Grad from UNCC
