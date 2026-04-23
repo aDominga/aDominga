@@ -30,26 +30,21 @@
 <br>
 <br>
 <h1 align="center">My Portfolio 💼</h1>
+<h3 align="center"><a href="https://adominga.github.io/Portfolio/">Click Here To View My Portfolio Page</a></h3>
+
 
 <br>
 <br>
-
-
 
 <h2 align="center">Want to get in touch💬</h2>
 <h3 align="center">You can find me here</h3>
+
+
 <div align="center">
 <a href="www.linkedin.com/in/adrian-dominguez-022186222">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="100" height="100" />
 </a>
 </div>
-<a href="https://adominga.github.io/Portfolio/"><h3>Click Me!</h3></a>
-
-
-### Portfolio
-### https://adominga.github.io/Portfolio/ 
-![Uploading githubpages.svg…]()
-
 
 <picture> 
   <img 
