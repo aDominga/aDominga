@@ -39,7 +39,7 @@
 <h2 align="center">Want to get in touch💬</h2>
 
 <div align="center">
-<a href="www.linkedin.com/in/adrian-dominguez-022186222">
+<a href="https://www.linkedin.com/in/adrian-dominguez-022186222">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="100" height="100" />
 </a>
 </div>
