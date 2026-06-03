@@ -11,9 +11,6 @@
 <h1 align="center"> 👋 Hey, I'm Adrian </h1>
 
 
-<div align="center">
-<p>Here is a little bit about me</p> 
-</div>
 
 <br>
 <br>
